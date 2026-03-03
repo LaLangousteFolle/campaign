@@ -1,0 +1,222 @@
+{
+  "title": "World",
+  "id": "world",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "13.351",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "5.2.5",
+  "lastPlayed": "Tue Mar 03 2026 00:10:49 GMT+0100 (Central European Standard Time)",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-world-ddb-backgrounds",
+      "banner": "modules/ddb-importer/storage/ddb/banner/backgrounds.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-world-ddb-classes",
+      "banner": "modules/ddb-importer/storage/ddb/banner/classes.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-world-ddb-feats",
+      "banner": "modules/ddb-importer/storage/ddb/banner/feats.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-world-ddb-items",
+      "banner": "modules/ddb-importer/storage/ddb/banner/items.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-world-ddb-monsters",
+      "banner": "modules/ddb-importer/storage/ddb/banner/monsters.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-world-ddb-vehicles",
+      "banner": "modules/ddb-importer/storage/ddb/banner/vehicles.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Species",
+      "name": "ddb-world-ddb-species",
+      "banner": "modules/ddb-importer/storage/ddb/banner/species.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-species",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-world-ddb-spells",
+      "banner": "modules/ddb-importer/storage/ddb/banner/spells.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-world-ddb-tables",
+      "banner": "modules/ddb-importer/storage/ddb/banner/tables.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-world-ddb-override",
+      "banner": "modules/ddb-importer/storage/ddb/banner/override.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "JournalEntry",
+      "label": "DDB Journals",
+      "name": "ddb-world-ddb-journals",
+      "banner": "modules/ddb-importer/storage/ddb/banner/journals.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-journals",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Summons",
+      "name": "ddb-world-ddb-summons",
+      "banner": "modules/ddb-importer/storage/ddb/banner/summons.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-world-ddb-summons",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "playtime": 1400,
+  "description": "",
+  "flags": {}
+}
